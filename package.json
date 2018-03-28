@@ -1,0 +1,34 @@
+{
+  "name": "nean",
+  "version": "1.0.0",
+  "description": "Node.js Express Angularjs NeDB stack application",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "cd ../nean-frontend && set NODE_ENV_production&& npm install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angusyg/nean.git"
+  },
+  "keywords": [
+    "javascript",
+    "angularjs",
+    "nean",
+    "bootstrap",
+    "ui",
+    "nodejs",
+    "express",
+    "nedb",
+    "camo",
+    "pino",
+    "jsonwebtoken"
+  ],
+  "author": "angusyg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/angusyg/nean/issues"
+  },
+  "homepage": "https://github.com/angusyg/nean#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}
