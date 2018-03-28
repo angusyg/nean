@@ -1,0 +1,6 @@
+[submodule "nean-backend"]
+	path = nean-backend
+	url = https://github.com/angusyg/nean-backend
+[submodule "nean-frontend"]
+	path = nean-frontend
+	url = https://github.com/angusyg/nean-frontend
