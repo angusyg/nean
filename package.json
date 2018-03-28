@@ -4,7 +4,7 @@
   "description": "Node.js Express Angularjs NeDB stack application",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "install": "cd ../nean-frontend && set NODE_ENV_production&& npm install"
+    "install": "git submodule update --init --recursive && cd nean-backend && npm install && cd ../nean-frontend && npm install"
   },
   "repository": {
     "type": "git",
